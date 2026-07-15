@@ -1,0 +1,1 @@
+(.venv) PS C:\Users\welcome\OneDrive\Documents\ev_car> python -m http.server 8000 --bind 127.0.0.1
